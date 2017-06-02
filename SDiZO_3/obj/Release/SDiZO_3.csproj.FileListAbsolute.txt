@@ -1,0 +1,6 @@
+D:\STUDIA\IV semestr\SDiZO\Projekt\SDiZO_3\SDiZO_3\bin\Release\SDiZO_3.exe.config
+D:\STUDIA\IV semestr\SDiZO\Projekt\SDiZO_3\SDiZO_3\bin\Release\SDiZO_3.exe
+D:\STUDIA\IV semestr\SDiZO\Projekt\SDiZO_3\SDiZO_3\bin\Release\SDiZO_3.pdb
+D:\STUDIA\IV semestr\SDiZO\Projekt\SDiZO_3\SDiZO_3\obj\Release\SDiZO_3.csprojResolveAssemblyReference.cache
+D:\STUDIA\IV semestr\SDiZO\Projekt\SDiZO_3\SDiZO_3\obj\Release\SDiZO_3.exe
+D:\STUDIA\IV semestr\SDiZO\Projekt\SDiZO_3\SDiZO_3\obj\Release\SDiZO_3.pdb

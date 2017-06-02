@@ -1,0 +1,33 @@
+Wyniki:
+  sack1: zadana pojemnoœæ: 10;  wyniki V = 10, wartoœæ = 285
+  sack2: zadana pojemnoœæ: 30;  wyniki V = 26, wartoœæ = 501
+  sack3: zadana pojemnoœæ: 90;  wyniki V = 90, wartoœæ = 1233
+  sack3: zadana pojemnoœæ: 120; wyniki V = 120,wartoœæ = 1509
+
+
+TSP4:  koszt drogi: 200 
+       droga:0 - 1 - 2 - 3 - 0
+
+TSP6_1:koszt drogi: 132 
+       droga:0 - 1 - 2 - 3 - 4 - 5 - 0
+
+TSP6_2:koszt drogi:  80 
+       droga: 0 - 5 - 1 - 2 - 3 - 4 - 0
+
+TSP10: koszt drogi: 212 
+       droga: 0 - 3 - 4 - 2 - 8 - 7 - 6 - 9 - 1 - 5 - 0
+
+TSP12: koszt drogi: 264 
+       droga:0 - 1 - 8 - 4 - 6 - 2 - 11 - 9 - 7 - 5 - 3 - 10 - 0
+
+TSP13: koszt drogi: 269 
+       droga: 0 - 10 - 3 - 5 - 7 - 9 - 11 - 2 - 6 - 4 - 8 - 1 - 12 - 0
+
+TSP14: koszt drogi: 282 
+       droga: 0 - 10 - 3 - 5 - 7 - 9 - 13 - 11 - 2 - 6 - 4 - 8 - 1 - 12 - 0
+
+TSP15: koszt drogi: 291 
+       droga:0 - 12 - 1 - 14 - 8 - 4 - 6 - 2 - 11 - 13 - 9 - 7 - 5 - 3 - 10 - 0
+Uwaga
+Prawid³owa droga jest równie¿ w odwrotnej kolejnoœci, bo dane s¹ dla problemu symetrycznego
+
